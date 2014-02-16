@@ -1,0 +1,5 @@
+Feb 15, 2014
+
+- Https
+- Store and verify pin
+- nonce, signature and other ways for security communication with server
